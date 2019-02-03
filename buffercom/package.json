@@ -1,0 +1,14 @@
+{
+  "id": "buffercom",
+  "name": "Buffer",
+  "version": "1.0.0",
+  "description": "Buffer.com",
+  "main": "index.js",
+  "author": "Juraj Bednár <juraj@bednar.io>",
+  "license": "MIT",
+  "repository": "https://github.com/jooray/franz-recipes/recipe-buffer",
+  "config": {
+    "serviceURL": "https://buffer.com/signin",
+    "hasNotificationSound": false
+  }
+}

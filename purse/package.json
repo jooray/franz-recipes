@@ -1,0 +1,14 @@
+{
+  "id": "purse",
+  "name": "Purse",
+  "version": "1.0.0",
+  "description": "Purse.io",
+  "main": "index.js",
+  "author": "Juraj Bednár <juraj@bednar.io>",
+  "license": "MIT",
+  "repository": "https://github.com/jooray/franz-recipes/purse",
+  "config": {
+    "serviceURL": "https://purse.io/login",
+    "hasNotificationSound": false
+  }
+}
